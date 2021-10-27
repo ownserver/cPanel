@@ -1,0 +1,68 @@
+Received: from 200.196.28.152 by s480d.ik2.com (IK2 SMTP Server); Mon, 25 Oct 2021 02:05:46 +0000
+Received: from mua01.matrix.com.br (mua.matrix.com.br [200.196.28.155])
+by relay04.matrix.com.br (Postfix) with ESMTP id 2349710069A;
+Sun, 24 Oct 2021 22:54:25 -0200 (-02)
+Received: from localhost (localhost [127.0.0.1])
+by mua01.matrix.com.br (Postfix) with ESMTP id 5745C1A9DB5;
+Sun, 24 Oct 2021 22:44:38 -0200 (-02)
+Received: from mua01.matrix.com.br ([127.0.0.1])
+by localhost (mua01.matrix.com.br [127.0.0.1]) (amavisd-new, port 10032)
+with ESMTP id qm_QcZaMkjf6; Sun, 24 Oct 2021 22:44:36 -0200 (-02)
+Received: from localhost (localhost [127.0.0.1])
+by mua01.matrix.com.br (Postfix) with ESMTP id B16921B2964;
+Sun, 24 Oct 2021 22:19:59 -0200 (-02)
+X-Virus-Scanned: amavisd-new at mua01.matrix.com.br
+Received: from mua01.matrix.com.br ([127.0.0.1])
+by localhost (mua01.matrix.com.br [127.0.0.1]) (amavisd-new, port 10026)
+with ESMTP id UFxDnHB29iQF; Sun, 24 Oct 2021 22:19:58 -0200 (-02)
+Received: from [192.168.43.21] (unknown [177.25.249.15])
+by mua01.matrix.com.br (Postfix) with ESMTPA id 33C7B1A991D;
+Sun, 24 Oct 2021 21:39:21 -0200 (-02)
+Content-Type: multipart/mixed; boundary="===============0103895787=="
+MIME-Version: 1.0
+Subject: A Conta Digital Vivo da sua empresa chegou.
+To: Recipients <titular_tratoral@matrix.com.br>
+From: Conta Digital Vivo <titular_tratoral@matrix.com.br>
+Date: Sun, 24 Oct 2021 20:39:25 -0300
+Message-Id: <20211024233922.33C7B1A991D@mua01.matrix.com.br>
+X-SF-RX-Return-Path: <titular_tratoral@matrix.com.br>
+X-SF-HELO-Domain: relay04.matrix.com.br
+X-SF-Originating-IP: 200.196.28.152
+X-SF-OriginatingCountry: BR
+X-SF-SPF-Result: pass
+X-Rejection-Reason: 12 - 521 The IP 200.196.28.152 is Blacklisted by invaluement.ik2. ---
+
+
+Received: from 200.196.28.152 by s480d.ik2.com (IK2 SMTP Server); Mon, 25 Oct 2021 01:40:25 +0000
+Received: from mua01.matrix.com.br (mua.matrix.com.br [200.196.28.155])
+by relay04.matrix.com.br (Postfix) with ESMTP id 85EF3F01F8;
+Sun, 24 Oct 2021 22:40:18 -0200 (-02)
+Received: from localhost (localhost [127.0.0.1])
+by mua01.matrix.com.br (Postfix) with ESMTP id AD4B31A460A;
+Sun, 24 Oct 2021 22:40:09 -0200 (-02)
+Received: from mua01.matrix.com.br ([127.0.0.1])
+by localhost (mua01.matrix.com.br [127.0.0.1]) (amavisd-new, port 10032)
+with ESMTP id gcwuFjYuQfs7; Sun, 24 Oct 2021 22:40:07 -0200 (-02)
+Received: from localhost (localhost [127.0.0.1])
+by mua01.matrix.com.br (Postfix) with ESMTP id 6A8B7154EF7;
+Sun, 24 Oct 2021 22:11:12 -0200 (-02)
+X-Virus-Scanned: amavisd-new at mua01.matrix.com.br
+Received: from mua01.matrix.com.br ([127.0.0.1])
+by localhost (mua01.matrix.com.br [127.0.0.1]) (amavisd-new, port 10026)
+with ESMTP id vPNwvHiWrPn3; Sun, 24 Oct 2021 22:11:12 -0200 (-02)
+Received: from [192.168.43.21] (unknown [177.25.249.15])
+by mua01.matrix.com.br (Postfix) with ESMTPSA id 2ED6C1964C7;
+Sun, 24 Oct 2021 21:34:19 -0200 (-02)
+Content-Type: multipart/mixed; boundary="===============0070762218=="
+MIME-Version: 1.0
+Subject: A Conta Digital Vivo da sua empresa chegou.
+To: Recipients <gdurlo@matrix.com.br>
+From: Conta Digital Vivo <gdurlo@matrix.com.br>
+Date: Sun, 24 Oct 2021 20:33:38 -0300
+Message-Id: <20211024233420.2ED6C1964C7@mua01.matrix.com.br>
+X-SF-RX-Return-Path: <gdurlo@matrix.com.br>
+X-SF-HELO-Domain: relay04.matrix.com.br
+X-SF-Originating-IP: 200.196.28.152
+X-SF-OriginatingCountry: BR
+X-SF-SPF-Result: pass
+X-Rejection-Reason: 12 - 521 The IP 200.196.28.152 is Blacklisted by invaluement.ik2. ---
